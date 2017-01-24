@@ -1,0 +1,20 @@
+{
+  "name": "intro-guide-prototype",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "buildit": "sass --watch assets/intro-guide.sass:style.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mystrdat/intro-guide-prototype.git"
+  },
+  "author": "mystrdat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mystrdat/intro-guide-prototype/issues"
+  },
+  "homepage": "https://github.com/mystrdat/intro-guide-prototype#readme"
+}
